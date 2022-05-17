@@ -20,6 +20,13 @@ Use of Heatmap for visual display of data
 - Drop redundant data columns in Happiness datasets
 - Removed Countries less than 50K pop and matched UN country code list. 
 
+# Data Source
+
+- Happiness index dataset on Kaggle
+- Global Population dataset on Kaggle
+- Country ISO code list on Wikipedia
+
+
 
 # Load 
 
@@ -28,4 +35,5 @@ As part of normalisation, a yearly calander has been added as a reference table.
 - The use case dictates that this DB will expand
 
 The last step was to transfer our final output into a Database. We created a database and respective table to match the columns from the final Panda's Data Frame using Postgres database using PG admin to store our original clean data sets. We reconnected to the database and generated additional tables for the data frames.
+
 
