@@ -37,10 +37,11 @@ As part of normalisation, a yearly calander has been added as a reference table.
 The last step was to transfer our final output into a Database. We created a database and respective table to match the columns from the final Panda's Data Frame using Postgres database using PG admin to store our original clean data sets. We reconnected to the database and generated additional tables for the data frames.
 
 # Code Snapshots and Results 
-<img src="https://user-images.githubusercontent.com/24882457/168723999-368049e6-2fd3-4727-857a-010f53f80b3d.png" width="800" height="600" title="Data engineering – SCHEMA DIAGRAM" style="vertical-align:middle">
+<img src="https://user-images.githubusercontent.com/24882457/168723999-368049e6-2fd3-4727-857a-010f53f80b3d.png" width="600" height="400" title="Data engineering – SCHEMA DIAGRAM" style="vertical-align:middle;margin:50px 50px">
 
-<img src="https://user-images.githubusercontent.com/24882457/168761260-2ad781ae-2955-49f5-900d-ab56e2d2cd9c.PNG" width="800" height="600" title="Text Menu" style="vertical-align:middle">
-<img src="https://user-images.githubusercontent.com/24882457/168761449-8aacb912-40dc-4157-b4b0-48d3bdb95375.png" width="800" height="600" title="Table Nill Value Menu" style="vertical-align:middle">
+
+<img src="https://user-images.githubusercontent.com/24882457/168761449-8aacb912-40dc-4157-b4b0-48d3bdb95375.png" width="600" height="400" title="Table Nill Value Menu" style="vertical-align:middle;margin:50px 50px">
+<img src="https://user-images.githubusercontent.com/24882457/168761260-2ad781ae-2955-49f5-900d-ab56e2d2cd9c.PNG" width="600" height="400" title="Text Menu" style="vertical-align:middle;margin:50px 50px">
 
 # Links
 
