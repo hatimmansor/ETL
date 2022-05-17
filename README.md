@@ -9,7 +9,7 @@ The original 4 data sources used were:
 - population_by_country_2020.csv
 - wikipedia-iso-country-codes.csv
 
-Transformation
+# Transformation
 
 In order to transform the public data and use it in our study we performed the following:
 
@@ -21,7 +21,7 @@ Use of Heatmap for visual display of data
 - Removed Countries less than 50K pop and matched UN country code list. 
 
 
-Load 
+# Load 
 
 As part of normalisation, a yearly calander has been added as a reference table.
 - Country used as Primary Key between data tables
