@@ -41,5 +41,4 @@ The last step was to transfer our final output into a Database. We created a dat
 # Links
 
 
-<img src="https://user-images.githubusercontent.com/24882457/168715707-a8981a1d-91a7-468f-b6c1-563740a86cad.png" width="40" height="40" title=" Hatims email"> 
-hatimf2004@gmail.com
+<img src="https://user-images.githubusercontent.com/24882457/168715707-a8981a1d-91a7-468f-b6c1-563740a86cad.png" width="40" height="40" title=" Hatims email"><Hatimf2004@gmail.com>
