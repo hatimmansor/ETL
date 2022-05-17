@@ -36,4 +36,9 @@ As part of normalisation, a yearly calander has been added as a reference table.
 
 The last step was to transfer our final output into a Database. We created a database and respective table to match the columns from the final Panda's Data Frame using Postgres database using PG admin to store our original clean data sets. We reconnected to the database and generated additional tables for the data frames.
 
+# Code Snapshots and Results 
 
+# Links
+
+
+![mail-icon-in-flat-style-email-symbol-in-flat-style-vector-28061204](https://user-images.githubusercontent.com/24882457/168715260-43b77fb5-563e-4ce3-b264-c43ab5529e53.jpg)
