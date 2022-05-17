@@ -1,6 +1,7 @@
 -- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/X5zOgk
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
+-- Full SQL COde
 
 
 
