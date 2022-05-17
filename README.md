@@ -41,4 +41,4 @@ The last step was to transfer our final output into a Database. We created a dat
 # Links
 
 
-![icon-mail-png-transparent-background-mail-logo-11562851894ksatrtd2da](https://user-images.githubusercontent.com/24882457/168715707-a8981a1d-91a7-468f-b6c1-563740a86cad.png = 50*50) 
+![icon-mail-png-transparent-background-mail-logo-11562851894ksatrtd2da](https://user-images.githubusercontent.com/24882457/168715707-a8981a1d-91a7-468f-b6c1-563740a86cad.png = 50x50) 
