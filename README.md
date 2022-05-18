@@ -9,23 +9,12 @@ The original 4 data sources used were:
 - population_by_country_2020.csv
 - wikipedia-iso-country-codes.csv
 
-# Transformation
-
-In order to transform the public data and use it in our study we performed the following:
-
-Used Pandas functions in Jupyter Notebook to load all three CSV files.
-Reviewed the files and transformed into data frames
-Use of Heatmap for visual display of data
-- Dropping null values for consistency
-- Drop redundant data columns in Happiness datasets
-- Removed Countries less than 50K pop and matched UN country code list. 
 
 # Data Source
 
 - Happiness index dataset on Kaggle
 - Global Population dataset on Kaggle
 - Country ISO code list on Wikipedia
-
 
 
 # Load 
@@ -35,6 +24,18 @@ As part of normalisation, a yearly calander has been added as a reference table.
 - The use case dictates that this DB will expand
 
 The last step was to transfer our final output into a Database. We created a database and respective table to match the columns from the final Panda's Data Frame using Postgres database using PG admin to store our original clean data sets. We reconnected to the database and generated additional tables for the data frames.
+
+
+# Transformation
+
+In order to transform the public data and use it in our study we performed the following:
+Pandas functions is used in Jupyter Notebook to load all three CSV files.
+Reviewed the files and transformed into data frames
+Use of Heatmap for visual display of data
+- Dropping null values for consistency
+- Drop redundant data columns in Happiness datasets
+- Removed Countries less than 50K pop and matched UN country code list. 
+
 
 # Code Snapshots and Results 
 <img src="https://user-images.githubusercontent.com/24882457/168723999-368049e6-2fd3-4727-857a-010f53f80b3d.png" width="600" height="400" title="Data engineering – SCHEMA DIAGRAM" style="vertical-align:middle;margin:50px 50px">
