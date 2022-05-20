@@ -19,6 +19,7 @@ The original 4 data sources used were:
 &#10004;Pandas      &#10004;Sqlalchemy      &#10004;Matplotlib      &#10004;Seaborn
 &#10004;Python
 
+
 # Load: 
 As part of normalisation, a yearly calander has been added as a reference table.
 - Country used as Primary Key between data tables
@@ -54,7 +55,6 @@ Use of Heatmap for visual display of data
 
 # Contact:
 <img src="https://user-images.githubusercontent.com/24882457/168723224-ecbdb402-be01-453d-9cb5-282424f7418a.png" width="20" height="20" title=" Hatims email"><Hatimf2004@gmail.com>
-
 
 <img src="https://user-images.githubusercontent.com/24882457/168716629-b90f784a-534f-418c-89fd-28e91c4830fa.png" width="20" height="20" title="Linkedin Profile"><https://www.linkedin.com/in/hatim-mansor-a420ab102/>
 
