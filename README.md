@@ -46,9 +46,7 @@ Use of Heatmap for visual display of data
 <img src="https://user-images.githubusercontent.com/24882457/168761260-2ad781ae-2955-49f5-900d-ab56e2d2cd9c.PNG" width="600" height="400" title="Text Menu" style="margin:auto ">
 </div>
 
-# Links
-
-
+# Contact:
 <img src="https://user-images.githubusercontent.com/24882457/168723224-ecbdb402-be01-453d-9cb5-282424f7418a.png" width="20" height="20" title=" Hatims email"><Hatimf2004@gmail.com>
 
 
