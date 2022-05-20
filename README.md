@@ -53,6 +53,13 @@ Use of Heatmap for visual display of data
 </table>
 
 
+# Team:
+- Hatim Mansor
+- John N
+- Tuflikha Putri
+- Hayley Win
+
+
 # Contact:
 <img src="https://user-images.githubusercontent.com/24882457/168723224-ecbdb402-be01-453d-9cb5-282424f7418a.png" width="20" height="20" title=" Hatims email"><Hatimf2004@gmail.com>
 
