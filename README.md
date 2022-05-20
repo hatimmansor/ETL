@@ -38,13 +38,20 @@ Use of Heatmap for visual display of data
 
 
 # Code Snapshots and Results 
-<img src="https://user-images.githubusercontent.com/24882457/168723999-368049e6-2fd3-4727-857a-010f53f80b3d.png" width="600" height="400" title="Data engineering – SCHEMA DIAGRAM" style="vertical-align:middle;margin:50px 50px">
 
+<table>
+  <tr>
+    <th style="text-align:center">Data engineering – SCHEMA DIAGRAM</td>
+     <th style="text-align:center">Table Nill Value Menu</td>
+     
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/24882457/168723999-368049e6-2fd3-4727-857a-010f53f80b3d.png" width=550 height=350 title="Data engineering – SCHEMA DIAGRAM"></td>
+    <td><img src="https://user-images.githubusercontent.com/24882457/168761449-8aacb912-40dc-4157-b4b0-48d3bdb95375.png" width=550 height=350 title="Table Nill Value Menu"></td>
+    
+  </tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/24882457/168761449-8aacb912-40dc-4157-b4b0-48d3bdb95375.png" width="600" height="400" title="Table Nill Value Menu" style="vertical-align:middle;margin:50px 50px">
-<div>
-<img src="https://user-images.githubusercontent.com/24882457/168761260-2ad781ae-2955-49f5-900d-ab56e2d2cd9c.PNG" width="600" height="400" title="Text Menu" style="margin:auto ">
-</div>
 
 # Contact:
 <img src="https://user-images.githubusercontent.com/24882457/168723224-ecbdb402-be01-453d-9cb5-282424f7418a.png" width="20" height="20" title=" Hatims email"><Hatimf2004@gmail.com>
